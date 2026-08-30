@@ -1,13 +1,13 @@
 {
   "URLBlocklist": ["*"],
-  "URLAllowlist": [],
+  "URLAllowlist": ["typing.com"],
   "IncognitoModeAvailability": 1,
   "BrowserGuestModeEnabled": false,
   "BrowserAddPersonEnabled": false,
   "DeveloperToolsAvailability": 2,
   "ExtensionInstallBlocklist": ["*"],
   "ProxySettings": {"ProxyMode": "system"},
-  "ManagedBookmarks": [{"name":"","url":""}],
+  "ManagedBookmarks": [{"name":"Typing","url":"https://typing.com"}],
   "PasswordManagerEnabled": true,
   "SyncDisabled": true,
   "MetricsReportingEnabled": false
